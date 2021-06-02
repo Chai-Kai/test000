@@ -1,4 +1,5 @@
-# <!doctype html>
+#
+<!doctype html>
 <html lang="zh-tw">
   <head>
     <!-- Required meta tags -->
